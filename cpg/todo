@@ -17,7 +17,7 @@
 -418 Sentence Screen Fitting 32.6% Medium
 -753 Cracking the Safe 50.2% Hard
 -271 Encode and Decode Strings 31.1% Medium
--686 Repeated String Match 32.2% Easy
+-686 Repeated String Match 32.2% Medium
 -281 Zigzag Iterator 58.1% Medium
 -361 Bomb Enemy 45.8% Medium
 -298 Binary Tree Longest Consecutive
@@ -41,7 +41,7 @@
 -System
 -44.2% Hard
 -222 Count Complete Tree Nodes 43.2% Medium
--844 Backspace String Compare 46.3% Easy
+-844 Backspace String Compare 46.3% Easy @done
 -568 Maximum Vacation Days 40.5% Hard
 -947 Most Stones Removed with Same
 -Row or Column
@@ -54,17 +54,13 @@
 -146 LRU Cache 32.5% Medium
 -425 Word Squares 47.4% Hard
 -200 Number of Islands 46.3% Medium
--66 Plus One 42.2% Easy
+-66 Plus One 42.2% Easy @done
 -737 Sentence Similarity II 45.6% Medium
 -939 Minimum Area Rectangle 52.0% Medium
--346 Moving Average from Data
--Stream
--70.3% Easy
+-346 Moving Average from Data Easy Lock @done
 -228 Summary Ranges 39.1% Medium
 -248 Strobogrammatic Number III 39.4% Hard
--734 Sentence Similarity 42.0% Easy
--6/21/2020 Problems - LeetCode
--https://leetcode.com/problemset/all/?companySlugs=google 3/38
+-734 Sentence Similarity 42.0% Easy @done
 -465 Optimal Account Balancing 46.4% Hard
 -296 Best Meeting Point 57.2% Hard
 -803 Bricks Falling When Hit 30.5% Hard
