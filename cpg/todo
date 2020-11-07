@@ -110,9 +110,7 @@
 -23 Merge k Sorted Lists 39.7% Hard
 -777 Swap Adjacent in LR String 34.6% Medium
 -1096 Brace Expansion II 62.2% Hard
--471 Encode String with Shortest
--Length
--46.7% Hard
+-471 Encode String with Shortest Length 46.7% Hard
 -246 Strobogrammatic Number 44.8% Easy @done
 -280 Wiggle Sort 63.4% Medium
 -1153 String Transforms Into Another
@@ -288,9 +286,7 @@
 -1145 Binary Tree Coloring Game 51.1% Medium
 -173 Binary Search Tree Iterator 55.5% Medium
 -444 Sequence Reconstruction 21.9% Medium
--708 Insert into a Sorted Circular Linked
--List
--31.4% Medium
+-708 Insert into a Sorted Circular Linked List 31.4% Medium
 -685 Redundant Connection II 32.3% Hard
 -486 Predict the Winner 47.7% Medium
 -6/21/2020 Problems - LeetCode
